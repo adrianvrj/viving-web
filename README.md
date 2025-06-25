@@ -2,6 +2,7 @@
 
 A Next.js-based web application for the Viving game, featuring blockchain integration with Starknet contracts and Cavos Services for seamless wallet management and transaction execution.
 
+Find smart contracts here: https://github.com/adrianvrj/viving-contracts.
 ## Overview
 
 The Viving web application is a full-stack game that combines traditional web gaming mechanics with blockchain technology. Players can create accounts, manage their game characters (Vivi), and interact with smart contracts on Starknet through a secure and user-friendly interface.
