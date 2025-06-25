@@ -692,7 +692,7 @@ export default function GamePage() {
                 enemy.alive || enemy.hit ? (
                     <img
                         key={i}
-                        src="/images/vivi-1.png"
+                        src="/images/enemy.png"
                         alt="Enemy"
                         style={{
                             position: 'absolute',
